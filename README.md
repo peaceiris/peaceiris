@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About peaceiris
+**About peaceiris**
 
 I'm Shohei Ueda. Call me @peaceiris. I am in a master's course at a graduate school in Japan.
 
@@ -21,7 +21,7 @@ I'm Shohei Ueda. Call me @peaceiris. I am in a master's course at a graduate sch
 - [GitHub Action Hero: Shohei Ueda - The GitHub Blog](https://github.blog/2020-03-22-github-action-hero-shohei-ueda/)
 
 
-### Projects
+**Projects**
 
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)
