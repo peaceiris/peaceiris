@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About peaceiris**
+**About @peaceiris**
 
-I'm Shohei Ueda. Call me @peaceiris. I am in a master's course at a graduate school in Japan.
+I'm Shohei Ueda, in a master's course at a graduate school in Japan.
 
 - [peaceiris homepage](https://peaceiris.com/)
 - [GitHub Action Hero: Shohei Ueda - The GitHub Blog](https://github.blog/2020-03-22-github-action-hero-shohei-ueda/)
@@ -31,4 +31,4 @@ I'm Shohei Ueda. Call me @peaceiris. I am in a master's course at a graduate sch
 
 <!-- - [Hugo Japan](https://github.com/hugojapan) -->
 
-Also, I spend my time on various repositories to support someone.
+Also, I spend my time on various repositories and forums to support communities.
