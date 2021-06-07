@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About @peaceiris**
+**About Me**
 
-I'm Shohei Ueda, in a master's course at a graduate school in Japan.
+I'm peaceiris, interested in Static Site Generators and GitHub Actions.
 
 - [peaceiris homepage](https://peaceiris.com/)
 - [GitHub Action Hero: Shohei Ueda - The GitHub Blog](https://github.blog/2020-03-22-github-action-hero-shohei-ueda/)
